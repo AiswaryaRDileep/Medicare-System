@@ -1,0 +1,13 @@
+package com.simplilearn.MedicareSystem;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MedicareSystemApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
